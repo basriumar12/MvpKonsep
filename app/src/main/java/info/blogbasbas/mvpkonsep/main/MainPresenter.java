@@ -1,6 +1,7 @@
 package info.blogbasbas.mvpkonsep.main;
 
-import info.blogbasbas.leranmvp.views.base.Presenter;
+
+import info.blogbasbas.mvpkonsep.base.Presenter;
 
 /**
  * Created by User on 30/08/2018.
