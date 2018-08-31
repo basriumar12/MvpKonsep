@@ -1,6 +1,11 @@
 # MvpKonsep
-Belajar mvp dengan bahasa java
+Belajar pattern mvp di bahasa java
 
-## Preview 1
-<img src="https://github.com/basriumar12/FootBallApp/blob/master/img/1.png" width="256"/>&nbsp;
-## Preview 2
+## Konsep MVP pattern 
+<img src="https://github.com/basriumar12/MvpKonsep/blob/master/img/1.png" width="256"/>&nbsp;
+
+## Download di youtube 
+https://www.youtube.com/watch?v=9JjlhMgW7dE&feature=youtu.be
+
+## Baca di medium
+https://medium.com/@basriumar/penerapan-pattern-konsep-mvp-di-java-94ad56846cca
